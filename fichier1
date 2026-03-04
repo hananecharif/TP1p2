@@ -1,2 +1,5 @@
 premier test
 hanane charif
+git remote add origin https://github.com/hananecharif/TP1p2.git
+git branch -M main
+git push -u origin main
